@@ -55,7 +55,7 @@
     "express": "^4.17.1",
     "express-hbs": "^1.1.1",
     "express-session": "^1.17.0",
-    "generate-password": "~1.3.0",
+    "generate-password": "~1.4.1",
     "glob": "^7.1.6",
     "gulp": "^4.0.2",
     "gulp-angular-templatecache": "~2.0.0",
